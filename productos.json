@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "nombre": "iphone 10 pro",
+    "precio": 120,
+    "thumbnail": "imagen iphone 12",
+    "descripcion": "telefono de última generación",
+    "code": "||||| |||| ||||",
+    "stock": 25
+  },
+  {
+    "id": 3,
+    "nombre": "iphone 14 pro",
+    "precio": 400,
+    "thumbnail": "imagen iphone 14",
+    "descripcion": "telefono de última generación",
+    "code": "||||| |||||||| ||||",
+    "stock": 40
+  },
+  {
+    "id": 4,
+    "nombre": "iphone 8 pro",
+    "precio": 400,
+    "thumbnail": "imagen iphone 8",
+    "descripcion": "telefono de última generación",
+    "code": "||||| |||||| ||||",
+    "stock": 20
+  }
+]
